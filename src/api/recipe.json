@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/82ebc109-e569-4cbd-b25a-fc435e97b53a_268466b7-4d23-4be1-8cb9-b1f03e73391e.jpg?auto=format",
+    "title": "Mie Ayam Monas",
+    "slug": "Mie-Ayam-Monas",
+    "ingridients": "Mie Ayam + 1 Bakso Monas + Pangsit Rebus",
+    "type": "fastfood",
+    "desk": "salted, creamy",
+    "youtube": {
+      "title": "MANTAP !!! MAKAN MIE AYAM DI MONAS",
+      "link": "https://www.youtube.com/watch?v=85L-_EvWCVY"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f8c23004-1095-4722-b328-99d884e481db_12566.jpg?auto=format",
+    "title": "Jagoan Hemat",
+    "slug": "Jagoan-Hemat",
+    "ingridients": "2 Pcs Rice + 2 Pcs Chicken + 2 Pcs Aqua",
+    "youtube": {
+      "title": "KFC Combo • Jagoan Hemat Kenyang Berdua • TVC Edisi 2023",
+      "link": "https://www.youtube.com/watch?v=hyKsVbWgG3w"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "isPopular": true,
+    "isNew": false,
+    "type": "fastfood",
+    "desk": "salted, creamy"
+  },
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a0881254-4260-43d4-b0b0-32feb0985166_Go-Biz_20220620_132311.jpeg?auto=format",
+    "title": "Martabak AA",
+    "slug": "Special-Sapi",
+    "ingridients": "Telur Ayam 4 Dan Daging Lebih Banyak",
+    "youtube": {
+      "title": "Martabak AA, Manggarai",
+      "link": "https://gofood.co.id/en/jakarta/restaurant/martabak-aa-manggarai-0d3bbb05-6365-4e9e-839e-529bc06ae6ac"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "isPopular": true,
+    "type": "fastfood",
+    "desk": "salted, creamy",
+    "isNew": false
+  },
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/79cb20e9-1070-4e40-9f58-17d94677dfd4_Go-Biz_20230106_001729.jpeg?auto=format",
+    "title": "Paket Promo Happy 1",
+    "slug": "Paket-Promo-Happy-1",
+    "ingridients": "Nasi + ayam + tempe + sambal + lalapan + es tekit",
+    "youtube": {
+      "title": "Ayam Geybok Bang Jarwo, Manggarai",
+      "link": "https://gofood.co.id/en/jakarta/restaurant/ayam-geybok-bang-jarwo-manggarai-b2a16f15-d770-406a-98b4-04c119c43372"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "isPopular": false,
+    "type": "fastfood",
+    "desk": "salted, creamy",
+    "isNew": true
+  },
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4f48ee93-ac5e-4d75-a327-61f040fdd665_87bd6907-d1bf-4c3c-bc6e-9076d0e8aec7.jpg?auto=format",
+    "title": "Nasi Cethut",
+    "slug": "Nasi-Cethut",
+    "ingridients": "Nasi, mie jawa, orek tempe, ayam suwir, telur, sambal, paru goreng",
+    "youtube": {
+      "title": "Cethut, Sampoerna Strategic Square",
+      "link": "https://gofood.co.id/en/jakarta/restaurant/cethut-sampoerna-strategic-square-272e0da8-43a2-4ab2-ae65-c79b6b57484f"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "type": "fastfood",
+    "desk": "salted, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/517fe07f-e646-4ff1-aca8-779107be2758_menu-item-image_1664424807697.jpg?auto=format",
+    "title": "Paket Duo Hemat 2",
+    "slug": "Paket-Duo-Hemat-2",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "Ayam Keprabon Express, Ambassador",
+      "link": "https://gofood.co.id/en/jakarta/restaurant/ayam-keprabon-express-ambassador-0ca2fb1a-8407-4375-b4a6-6b770300d48a"
+    },
+    "made": "Gojek",
+    "rating": "5.0",
+    "type": "fastfood",
+    "desk": "salted, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/d1/1e/0d/d11e0da5803c39f99725f043f955a998.jpg",
+    "title": "Boba Milk Tea",
+    "slug": "Boba-Milk-Tea",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Boba ice",
+      "link": "https://www.youtube.com/watch?v=Sn2P-y0BuDE&ab_channel=FransiskaTien"
+    },
+    "made": "Tasty",
+    "rating": "4.9",
+    "type": "drink",
+    "desk": "fresh, creamy",
+    "isPopular": true,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/ba/47/fb/ba47fbc70878fd449353935252fe4419.jpg",
+    "title": "Iced Green Tea",
+    "slug": "Iced-Green-Tea",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Green tea",
+      "link": "https://www.youtube.com/watch?v=46rBO56CJsw&ab_channel=AdeKoerniawan"
+    },
+    "made": "Teguk",
+    "rating": "4.8",
+    "type": "drink",
+    "desk": "fresh, cold",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/d6/75/6d/d6756dd377436f909416ab19611175ab.jpg",
+    "title": "Blueberry Butterfly Pea Flower Parfait",
+    "slug": "Blueberry-Butterfly-Pea-Flower-Parfait",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Blueberry Butterfly Pea",
+      "link": "https://www.youtube.com/watch?v=ox6Y7UzCUCY&ab_channel=ToficoOfficial"
+    },
+    "made": "Toficco Coffee",
+    "rating": "4.9",
+    "type": "drink",
+    "desk": "fresh, cold",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.pinimg.com/564x/78/42/3f/78423f8ae342b9dd7942acc8fb2d993c.jpg",
+    "title": "Telang Flower tea",
+    "slug": "Telang-Flower-tea",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make telang Flower tea",
+      "link": "https://www.youtube.com/watch?v=VG3aNw7-8XI&ab_channel=DapurJatirasa"
+    },
+    "made": "De'Phe",
+    "rating": "4.6",
+    "type": "drink",
+    "desk": "fresh, cold, creamy",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.pinimg.com/736x/3e/a8/a7/3ea8a7d1ca2ec27f185a1c667b94464f.jpg",
+    "title": "Vietnam Seafood",
+    "slug": "Vietnam-Seafood",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Vietnam Seafood",
+      "link": "https://www.youtube.com/watch?v=jYAo-UmbLGk&ab_channel=DevinaHermawan"
+    },
+    "made": "Devina Resto",
+    "rating": "4.9",
+    "type": "seafood",
+    "desk": "salted, hot, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/69/28/7d/69287d6b1c0516a665bbd554d0cb1400.jpg",
+    "title": "Baked Stuffed Lobster",
+    "slug": "Baked-Stuffed-Lobster",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Baked Stuffed Lobster",
+      "link": "https://www.youtube.com/watch?v=mRmACujjtB0&ab_channel=HarborFishMarket"
+    },
+    "made": "the Work of Life",
+    "rating": "5.0",
+    "type": "seafood",
+    "desk": "salted, hot, creamy",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.pinimg.com/564x/6e/18/d3/6e18d354f19ec271a211d559b9c06057.jpg",
+    "title": "Sous Vide Octopus",
+    "slug": "Sous-Vide-Octopus",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Sous Vide Octopus",
+      "link": "https://www.youtube.com/watch?v=7Jfp_atEvBQ&ab_channel=Breville%7CCommercial"
+    },
+    "made": "Breville",
+    "rating": "4.7",
+    "type": "seafood",
+    "desk": "salted, hot, creamy",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.pinimg.com/564x/23/b0/a7/23b0a7c57b044df8f30f6a0f83eabd22.jpg",
+    "title": "Seared Salmon",
+    "slug": "Seared-Salmon",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Seared Salmon",
+      "link": "https://www.youtube.com/watch?v=x1GnFAJEUOI&ab_channel=DevinaHermawan"
+    },
+    "made": "Devinna Resto",
+    "rating": "4.8",
+    "type": "seafood",
+    "desk": "salted, hot, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/78/ab/f0/78abf00db62358cd2552d0a697b6d74f.jpg",
+    "title": "Oxtail Soup ",
+    "slug": "Oxtail-Soup ",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Oxtail Soup ",
+      "link": "https://www.youtube.com/watch?v=WcfEj-ZgMY4&ab_channel=MasakTV"
+    },
+    "made": "Devinna Resto",
+    "rating": "4.8",
+    "type": "soup",
+    "desk": "salted, creamy",
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "image": "https://i.pinimg.com/564x/4b/25/44/4b2544c37a8875ddad9ac8dd1eec980a.jpg",
+    "title": "Sop Ayam Jagung",
+    "slug": "Sop-Ayam-Jagung",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Sop Ayam Jagung ",
+      "link": "https://www.youtube.com/watch?v=QCh7U1xr-e0&ab_channel=CHECHEKITCHEN"
+    },
+    "made": "CHECHE KITCHEN",
+    "rating": "4.6",
+    "type": "soup",
+    "desk": "salted, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/9b/e7/70/9be7701ba3a1729d1c3f3c44f96b3cfc.jpg",
+    "title": "Soto Ayam Kuning",
+    "slug": "Soto-Ayam-Kuning",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Soto Ayam Kuning",
+      "link": "https://www.youtube.com/watch?v=RT5WdrdyPuk&ab_channel=wannoor"
+    },
+    "made": "Resepmamiku",
+    "rating": "4.9",
+    "type": "soup",
+    "desk": "salted, creamy",
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "image": "https://i.pinimg.com/564x/6a/a9/13/6aa9135a7332cd920c448bfce43bd976.jpg",
+    "title": "Sop Konro",
+    "slug": "Sop-Konro",
+    "ingridients": "Paket duo hemat 2 untuk 2 porsi (nasi, ayam geprek mix telor + keju mozarella + sambal bohay/karca + timun)",
+    "youtube": {
+      "title": "How to Make Sop Konro",
+      "link": "https://www.youtube.com/watch?v=CkBZYun1S_Y&ab_channel=CeceromedKitchen"
+    },
+    "made": "Ceceromed Kitchen",
+    "rating": "4.9",
+    "type": "soup",
+    "desk": "salted, creamy",
+    "isPopular": true,
+    "isNew": false
+  }
+]
